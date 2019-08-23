@@ -32,4 +32,4 @@ Task: Distinguished hotel reviews as either truthful or deceptive, and either po
 
 # HW_05.) Part of Speech Tagging
 
-Task: Identify the part of speech tagging for Italian and Japanese languages by implementing deep learning techniques.
+Task: Identify the part of speech tagging for Italian and Japanese languages by implementing a sequence-to-sequence Recursive Neural Network (RNN) model in TensorFlow.
